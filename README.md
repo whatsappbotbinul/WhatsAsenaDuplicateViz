@@ -14,7 +14,7 @@
   <br>
 </p>
 
-[![Run on Repl.it](https://replit.com/@sahanFranando/WhatsAsenaDuplicated)](https://replit.com/@sahanFranando/Recon)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@sahanFranando/Recon)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sahanviduranga/WhatsAsenaDuplicateViz)
 
