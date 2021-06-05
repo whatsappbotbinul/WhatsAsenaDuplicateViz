@@ -16,7 +16,7 @@
 
 [![Run on Repl.it](https://replit.com/@sahanFranando/WhatsAsenaDuplicated)](https://replit.com/@sahanFranando/Recon)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sahanviduranga/WhatsAsenaDuplicateViz/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sahanviduranga/WhatsAsenaDuplicateViz)
 
 ### ⚠️ Warning! 
 ```
